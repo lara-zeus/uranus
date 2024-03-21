@@ -15,35 +15,64 @@
 
 <h1 align="center">Lara Zeus Uranus</h1>
 
-thia is the main UI uranus, and blade components for all lara-zeus packages
->small tasks can be time-consuming, let us build these for you,
+Manually convert your Laravel app's admin panel to FilamentPHP for a sleek, modern interface and seamless functionality.
 
-## Support Filament
+### Support Filament
 
 <a href="https://github.com/sponsors/danharrin">
 <img alt="filament-logo" src="https://larazeus.com/images/filament-sponsor-banner.png">
 </a>
 
-## Why this a separate package
-we have many packages, some are already published, and more in the way.
-so it make sense to separate the assets and the default layouts we're using in our packages.
+## Features
+- 🔥 Supports converting the following admin panels:
+  - Laravel Nova
+  - Laravel Voyager
+  - Backpack for Laravel
+  - ... and more are coming!
+  
+- 🔥 Simple steps to get everything ready for you.
 
-## Can I customize these views
-Yes of course, you can customize the blade files, and make your own themes
+## Installation
 
-#### to publish the views
 ```bash
-php artisan vendor:publish --tag=zeus-views
+php composer require lara-zeus/uranus
 ```
-#### to publish the assets files
+
+## Requirements
+
+make sure you already installed filamentPHP and configured the default panel.
+
+## Usage
+
+you only need to run the command, and follow the installation guide step by step
+
 ```bash
 php artisan vendor:publish --tag=zeus-assets
 ```
 
-## Quick start
+## Changelog
 
-[![starter-kit](https://larazeus.com/images/starter-kit-mini.png?v=2)](https://github.com/lara-zeus/zeus)
-[![artemis](https://larazeus.com/images/artemis-mini.png?v=2)](https://github.com/lara-zeus/artemis)
+Please see [CHANGELOG](CHANGELOG.md) for more information on recent changes.
 
-## More Info
-check our packages at [Larazeus](https://larazeus.com/) website
+## Support
+available support channels:
+
+* open an issue on [GitHub](https://github.com/lara-zeus/bolt/issues)
+* Email us using the [contact center](https://larazeus.com/contact-us)
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Security
+
+If you find any security-related issues, please email info@larazeus.com instead of using the issue tracker.
+
+## Credits
+
+-   [php coder](https://github.com/atmonshi)
+-   [All Contributors](../../contributors)
+
+## License
+
+The MIT License (MIT). Please have a look at [License File](LICENSE.md) for more information.
