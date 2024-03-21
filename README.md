@@ -47,7 +47,7 @@ make sure you already installed filamentPHP and configured the default panel.
 you only need to run the command, and follow the installation guide step by step
 
 ```bash
-php artisan vendor:publish --tag=zeus-assets
+php artisan uranus:install
 ```
 
 ## Changelog

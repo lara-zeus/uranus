@@ -26,7 +26,6 @@ trait Loader
     {
         $allClasses = [];
         foreach ($classes as $class) {
-            $getClass = new $class();
             $allClasses[str($class)->explode('\\')->last()] = $class;
         }
 
