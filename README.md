@@ -28,9 +28,12 @@ Manually convert your Laravel app's admin panel to FilamentPHP for a sleek, mode
   - Laravel Nova
   - Laravel Voyager
   - Backpack for Laravel
-  - ... and more are coming!
-  
+
 - 🔥 Simple steps to get everything ready for you.
+
+- (soon) Auto detect the admin panel
+- (soon) Install filament and a new admin panel if its not installed yet
+- (soon) Support more admin panels types
 
 ## Installation
 
