@@ -24,7 +24,7 @@ class InstallCommand extends Command
             label: 'What admin panel are you using?',
             options: [
                 'nova' => 'Laravel Nova',
-                //'voyager' => 'Laravel Voyager',
+                'voyager' => 'Laravel Voyager',
                 'backpack' => 'Backpack for Laravel',
             ],
             hint: 'Choose the admin panel currently integrated into your application'
