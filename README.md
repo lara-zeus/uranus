@@ -33,12 +33,12 @@ Manually convert your Laravel app's admin panel to FilamentPHP for a sleek, mode
 
 - (soon) Auto detect the admin panel
 - (soon) Install filament and a new admin panel if its not installed yet
-- (soon) Support more admin panels types
+- (soon) Support more admin panels packages
 
 ## Installation
 
 ```bash
-php composer require lara-zeus/uranus
+composer require lara-zeus/uranus
 ```
 
 ## Requirements
