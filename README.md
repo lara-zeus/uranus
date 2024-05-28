@@ -14,6 +14,9 @@
 
 Manually convert your Laravel app's admin panel to FilamentPHP for a sleek, modern interface and seamless functionality.
 
+
+> By now, you must have realized it's an April Fools' joke! But if you're serious about converting your current app to use FilamentPHP, try [Whizzy.dev](https://whizzy.dev). It allows you to import your current schema, build the resources for you, and even more.
+
 ### Support Filament
 
 <a href="https://github.com/sponsors/danharrin">
