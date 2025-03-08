@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://larazeus.com"><img src="https://larazeus.com/images/lara-zeus-uranus.png?v=2" /></a>
+<a href="https://larazeus.com"><img src="https://larazeus.com/images/lara-zeus-uranus.webp?v=2" /></a>
 </p>
 
 <p align="center">
